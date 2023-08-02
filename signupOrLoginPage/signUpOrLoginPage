@@ -1,3 +1,4 @@
--My part of the project will be to create the Sign-up and login page;
-as well as to store user login information on the local storage.
+-This part of the project will be to create the Sign-up and login page;
+and to store user login information on the local storage.
 Hence a repository named “Bug-monitoring” will be created and it will have a folder called signup/login.
+-A bug was spotted when checking the authentication ofthe form. and this will be addressed this week.
