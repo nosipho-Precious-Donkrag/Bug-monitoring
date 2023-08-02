@@ -1,0 +1,70 @@
+body{
+    width: 60%;
+    margin: auto;
+    margin-top: 30%;
+    
+  
+}
+body #form{
+    margin: auto; 
+    border: 0.2rem solid #476672;
+    border-radius: 1rem;
+}
+body #form h2{
+    text-align: center;
+    padding-top: 1rem;
+    font-weight: bold;
+}
+body #form .form-group
+{
+   
+    padding-bottom: 2rem;
+    margin: auto;
+    margin-left: 1rem;
+    
+    
+    
+}
+body #form .form-group input
+{
+    width: 80%;
+    margin-left: 0rem;
+}
+body #form .form-group .row .col
+{
+background-image: url('./account.png');
+background-size: contain;
+background-repeat: no-repeat;
+}
+body #form .form-group .row .password
+{
+background-image: url('./lock.png');
+background-size: contain;
+background-repeat: no-repeat;
+
+}
+body #form .form-group .row #exampleInputPassword1 + #exampleInputEmail1
+{
+    width: 80%;
+}
+#form .button{
+    margin-top: 2rem;
+    text-align: center;
+    
+}
+#form .button button{
+    padding-left:3rem;
+    padding-right: 3rem;
+}
+
+.hide-form{
+    display: none;
+}
+.nonmatching-password{
+    text-align: center;
+    color: red;
+}
+.red{
+    border: 0.2rem SOLID red;
+   
+}
